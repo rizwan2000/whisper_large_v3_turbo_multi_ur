@@ -1,7 +1,7 @@
 # whisper_large_v3_turbo_multi_ur
 Whisper-Large-v3-Turbo model - fine-tuned for multi-lingual (Urdu+English) speakers on new custom designed dataset.
 
-
+### Sample audio and generated transcripts
 https://github.com/user-attachments/assets/abf958a1-94a2-4a7e-ae3a-3b684feed6a8
 
 <table border="0">
@@ -73,3 +73,12 @@ practical
 اپریل 1887 میں یعنی ایڈیسن کو چھوڑا </td>
  </tr>
 </table>
+
+## Evaluation Results
+Training metrics on [huggingface](https://huggingface.co/rizwan2000/whisper-large-v3-turbo-ur-2/tensorboard)
+### WER - Word Error Rate on New Custom Dataset for multi-lingual Pakistani Speakers 
+
+![Screenshot from 2025-01-02 12-39-29](https://github.com/user-attachments/assets/7a133689-1745-46dc-9d24-c04102bcd3b6)
+![Screenshot from 2025-01-03 00-23-43](https://github.com/user-attachments/assets/eb7df7b8-a657-48a8-ae21-f15776e33527)
+
+
